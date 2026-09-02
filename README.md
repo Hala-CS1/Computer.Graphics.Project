@@ -1,4 +1,4 @@
-# Spacecraft Animation Project
+# Computer Graphics Project
 
 This is a group project for the Computer Graphics course.
 
